@@ -1,0 +1,41 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/auditor/r6s/guerilla/BB_Straps"
+	"$bumpmap" "models/auditor/r6s/guerilla/BB_Straps_Normal"
+
+	"$color2""[0.6 0.6 0.6]"
+
+	//"$blendTintByBaseAlpha"	"1"
+
+	//$nocull 1
+	$normalmapalphaenvmapmask 1
+	
+	"$envmap" "models/auditor/r6s/guerilla/cube_metal_grey"					
+	"$envmaptint" "[0.6 .6 .8]"				
+ 	"$envmapFresnel"  "[1.4] "
+
+
+	"$phong" "1"						
+	"$phongboost"	"1.90"
+	//"$phongexponent" 15
+	"$phongexponenttexture" "models/auditor/r6s/guerilla/Green"
+	"$phongwarptexture"		"models/auditor/r6s/guerilla/phongwarp_metal2"
+	$lightwarptexture "models/auditor/r6s/guerilla/lightwarp_elchulus"
+
+	"$phongfresnelranges"	"[0.76 0.921 1.25]"
+	"$phongtint" 			"[0.77 0.8 1]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "6"
+	"$rimlightboost" "0.001"
+	"$rimmask" "1"
+
+
+	//"$detail" "models\auditor/r6s/smoke/detail_leather2"
+	$detailscale 18
+	$detailblendfactor 1
+	$detailblendmode 0
+
+}
+

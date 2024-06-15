@@ -1,0 +1,27 @@
+"EyeRefract"
+{
+	"$Iris" 				"lucie/ait/head/eyes"
+	"$AmbientOcclTexture" 	"lucie/ait/head/mechanic_eye_ao"
+	"$Envmap" 				"lucie/ait/head/eye-reflection-cubemap-"
+	"$CorneaTexture" 		"lucie/ait/head/eyes_cornea"
+	"$LightWarpTexture" 	"lucie/ait/head/eye_lightwarp"
+
+	"$Irisframe" 			"3"
+
+"$AmbientOcclColor" 	"[0.4 0.3 0.27]"
+"$Dilation" 			"0.7"
+"$Glossiness" 			"0.75"
+"$ParallaxStrength" 	"0.25"
+"$CorneaBumpStrength" 	"0.25"
+"$HalfLambert" 			"1"
+"$NoDecal" 				"1"
+"$AmbientOcclusion" 	"0.5"
+
+"$EyeballRadius" 		"0.605"
+"$RaytraceSphere" 		"0"
+"$SphereTexkillCombo" 	"0"
+
+"$CloakPassEnabled"	"1" 	//< For SFM and TF2
+//"$CloakColorTint"	"[0.4 0.5 1]" // BLU
+//"$CloakColorTint"	"[1 0.5 0.4]" // RED
+}

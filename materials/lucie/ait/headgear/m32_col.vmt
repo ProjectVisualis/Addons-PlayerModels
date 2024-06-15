@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "lucie/ait/headgear/headset_m32_earmor"
+	$color2 "[2 2 2]"
+  	 $phong "1"
+	 $phongfresnelranges "[0.04 0.15 1.0]"
+  	 $phongexponent "25"
+   	 $phongboost "0.2"
+
+ 	 $envmap "env_cubemap"
+ 	 $normalmapalphaenvmapmask "1"
+  	 $envmaptint "[0.01 0.01 0.01]"
+  	 $envmapfresnel "0.5"
+}
+
+

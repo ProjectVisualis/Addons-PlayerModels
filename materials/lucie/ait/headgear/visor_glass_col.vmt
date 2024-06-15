@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "lucie/ait/headgear/visor_glass_col"
+	"$bumpmap" "lucie/ait/headgear/visor_glass_nml"
+	"$phong" "1"
+	"$nocull" "0"
+	"$phongexponent" "8"
+	"$phongalbedotint" "1"
+	"$phongboost" "0.20"
+	"$phongfresnelranges" "[5 7 8]"
+	"$lightwarptexture" "lucie/ait/shared/Clothes_wrp"
+	"$phongexponenttexture" "lucie/ait/shared/upperbody_a_mask"
+	"$translucent" "1"
+	"$ambientocclusion" "0"
+}

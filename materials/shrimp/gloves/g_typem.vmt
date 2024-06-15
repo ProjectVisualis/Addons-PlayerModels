@@ -1,0 +1,23 @@
+//Shrimp's stupid vmt config
+
+"VertexlitGeneric"
+{
+
+
+	"$basetexture"	"shrimp/gloves/g_typem"
+	"$bumpmap"	"shrimp/gloves/g_typem_n"
+	"$phongexponenttexture"	"shrimp/gloves/g_typem_m"
+
+
+	"$rimlight"	"1"
+	"$rimlightexponent"	"50"
+	"$rimlightboost"	".15"
+
+
+	$phong "1"
+	$phongboost "0.25"
+	$phongexponent	"25"
+	$phongfresnelranges "[1 2 4]"
+	$phongalbedotint "1"
+}
+

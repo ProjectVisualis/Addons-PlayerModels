@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "dannio\male07naked/kaz1_item0_def_bsm"
+                "$bumpmap"    "dannio\male07naked/kaz1_item0_def_nrm"
+	"$phong" "1"
+//	"$phongexponent" "4"
+	"$phongalbedotint" "1"
+	"$phongboost" ".05"
+	"$phongfresnelranges"	"[3 5 7]"
+	$halflambert 1
+	$nocull 1
+}
+
+

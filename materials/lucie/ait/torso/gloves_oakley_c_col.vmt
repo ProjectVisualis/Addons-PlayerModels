@@ -1,0 +1,34 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "lucie/ait/torso/gloves_oakley_c_col"
+	"$bumpmap" "lucie/ait/torso/gloves_oakley_nml"
+             //"$color2" "[0.8 0.8 0.8]"
+             //"$selfillum" "1"
+             //"$selfillummaskscale" "15"
+             //"$selfillummask" "/chr_ying_main_emi"
+	
+	"$normalmapalphaenvmapmask" "1"				
+	"$envmap" "env_cubemap"							
+	"$envmapsaturation" "1"
+	"$envmaptint" "[.035 .035 .035]"					
+ 	"$envmapFresnel" "1"					
+
+	"$nocull" "1"	
+
+             //"ReflectionsDir
+
+	"$phong" "1"	
+	"$phongboost" "1.25"
+             //"$phongexponent" "6"	
+	"$phongexponenttexture" "lucie/ait/torso/gloves_oakley_mask"
+
+    "$phongwarptexture" "lucie/ait/shared/phongwarp2"		
+	"$lightwarptexture" "lucie/ait/shared/lightwarp_soft"
+	"$phongtint" "[1 1 .9]"
+	"$phongfresnelranges" "[.2 .5 5]"
+
+             //"$PhongAlbedoTint" "1"
+	"$rimlight" "1"
+	"$rimlightboost" "0.35"
+             //"$rimmask" "1"
+}

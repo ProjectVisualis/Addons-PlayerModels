@@ -1,0 +1,34 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "lucie/ait/gear/belt_col"
+	"$bumpmap" "lucie/ait/gear/belt_nml"
+	"$color2" "[0.85 0.85 0.85]"
+             //"$selfillum" "1"
+             //"$selfillummaskscale" "15"
+             //"$selfillummask" "/chr_ying_main_emi"
+	
+	"$normalmapalphaenvmapmask" "1"				
+	"$envmap" "env_cubemap"							
+	"$envmapsaturation" "1"
+	"$envmaptint" "[.015 .015 .015]"					
+ 	"$envmapFresnel" "1"					
+
+	"$nocull" "1"	
+
+             //"ReflectionsDir
+
+	"$phong" "1"	
+	"$phongboost" "0.25"
+	"$phongexponent" "5"	
+	"$phongexponenttexture" "lucie/ait/shared/upperbody_a_mask"
+
+   "$phongwarptexture" "lucie/ait/shared/phongwarp2"		
+	"$lightwarptexture" "lucie/ait/shared/lightwarp_soft"
+	"$phongtint" "[1 1 .9]"
+	"$phongfresnelranges" "[.2 .5 5]"
+
+             //"$PhongAlbedoTint" "1"
+	"$rimlight" "1"
+	"$rimlightboost" "0.35"
+             //"$rimmask" "1"
+}

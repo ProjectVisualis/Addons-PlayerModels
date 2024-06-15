@@ -1,0 +1,35 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "lucie/ait/eyes/mouth_col"
+	"$bumpmap" "lucie/ait/eyes/mouth_nml"
+	"$phongexponenttexture" "lucie/ait/eyes/mouth_mask"
+
+	"$compress" "lucie/ait/eyes/mouth_col"
+	"$bumpcompress" "lucie/ait/eyes/mouth_nml"
+	"$stretch" "lucie/ait/eyes/mouth_col"
+	"$bumpstretch" "lucie/ait/eyes/mouth_nml"
+
+//	"$LightWarpTexture" "lucie/ait/eyes/Base_M_Caucasian_Wrp"
+
+	"$phong" "1"
+	"$phongboost" "0.60"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[0.3 1 4]"
+	"$phongalbedotint" "0"
+	"$phongdisablehalflambert"  "1"
+	"$normalmapalphaphongmask"  "1"
+
+	"$Rimlight" "0"
+
+	"$model" "1"
+	"$halflambert" "0"
+	"$nodecal" "1"
+	"$ambientocclusion" "1"
+	"$nocull" "0"
+	"$surfaceprop" "flesh"
+//	"$blendtintbybasealpha" "1"
+//	"$color2" "{ 200 200 200 }"
+	"$cloakpassenabled" "1"
+//	"$cloakcolortint" "[0.4 0.5 1]"
+//	"$cloakcolortint" "[1 0.5 0.4]"
+}

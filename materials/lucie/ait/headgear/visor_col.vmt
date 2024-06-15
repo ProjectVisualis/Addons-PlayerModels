@@ -1,0 +1,34 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "lucie/ait/headgear/visor_col"
+	"$bumpmap" "lucie/ait/headgear/visor_nml"
+	"$color2" "[1.85 1.85 1.80]"
+             //"$selfillum" "1"
+             //"$selfillummaskscale" "15"
+             //"$selfillummask" "/chr_ying_main_emi"
+	
+	"$normalmapalphaenvmapmask" "1"				
+	"$envmap" "env_cubemap"							
+	"$envmapsaturation" "1"
+	"$envmaptint" "[.035 .035 .035]"					
+ 	"$envmapFresnel" "1"					
+
+	"$nocull" "1"	
+
+             //"ReflectionsDir
+
+	"$phong" "1"	
+	"$phongboost" "2.35"
+	"$phongexponent" "5"	
+	"$phongexponenttexture" "lucie/ait/shared/upperbody_a_mask"
+
+    "$phongwarptexture" "lucie/ait/shared/phongwarp2"		
+	"$lightwarptexture" "lucie/ait/shared/lightwarp_soft"
+	"$phongtint" "[1 1 1]"
+	"$phongfresnelranges" "[.2 .5 5]"
+
+             //"$PhongAlbedoTint" "1"
+	"$rimlight" "1"
+	"$rimlightboost" "0.35"
+             //"$rimmask" "1"
+}

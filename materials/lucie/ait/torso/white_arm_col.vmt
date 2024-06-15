@@ -1,0 +1,35 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "lucie/ait/torso/White_Arm_col"
+	"$bumpmap"    "lucie/ait/torso/White_Arm_nml"
+	"$phongexponenttexture"     "lucie/ait/torso/White_Arm_mask"
+
+	"$compress" "lucie/ait/torso/White_Arm_col"
+	"$bumpcompress" "lucie/ait/torso/White_Arm_nml"
+	"$stretch" "lucie/ait/torso/White_Arm_col"
+	"$bumpstretch" "lucie/ait/torso/White_Arm_nml"
+
+	"$lightWarptexture" "lucie/ait/head/Base_M_Caucasian_Wrp"
+
+	"$phong" "1"
+	"$phongboost" "0.35"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[0.3 0.5 24]"
+	"$phongalbedotint" "0"
+	"$phongdisablehalflambert" "1"
+	"$normalmapalphaphongmask" "1"
+
+	"$rimlight" "0"
+
+	"$model" "1"
+	"$halflambert" "0"
+	"$nodecal" "1"
+	"$ambientocclusion" "1"
+	"$mocull" "0"
+	"$surfaceprop" "flesh"
+//	"$blendtintbybasealpha" "1"
+	"$color2" "{ 350 350 350 }"
+	"$cloakPassEnabled" "1"
+//	"$cloakColorTint" "[0.4 0.5 1]"
+//	"$cloakColorTint" "[1 0.5 0.4]"
+}

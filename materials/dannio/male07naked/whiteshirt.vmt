@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "dannio\male07naked/whiteshirt"
+    "$bumpmap"             "dannio\male07naked/topnm"
+
+	"$surfaceprop" "Flesh"
+	"$detail"             "dannio\male07naked/clothdetail"
+	"$detailscale"        "7"
+	"$detailblendfactor"  "0.4"
+	"$detailblendmode"    "0"
+	"$nocull" "1"
+	
+	"$rimlight" "1"
+	"$rimlightboost" "1"
+	"$rimlightexponent" "1"
+	"$rimmask" "1"
+$halflambert 1
+
+}

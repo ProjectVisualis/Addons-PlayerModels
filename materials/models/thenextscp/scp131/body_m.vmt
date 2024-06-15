@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+//Base
+	"$basetexture" 					"models\thenextscp\scp131\scp131_yellow_d"
+	"$bumpmap" 						"models\thenextscp\scp131\scp131_n"
+	"$phongexponenttexture" 		"models\thenextscp\scp131\scp131_p"
+
+//Other	
+	"$nocull" "1"
+	"$color2" "[0.25 0.25 0.25]"
+
+//Phong	
+	"$phong" "1"
+	"$phongboost" "8"
+	"$phongfresnelranges"	"[0.35 4.25 6.75]"					
+	"$phongalbedotint" "1"
+	"$phongexponent" "15"
+	
+//Envmap	
+	"$normalmapalphaenvmapmask" "1" 
+	"$envmap" "env_cubemap"			
+ 	"$envmapFresnel"  "[1.0]"
+	"$envmaptint"	"[.15 .15 .15]"
+
+}
+
+//1/3 Diffuse Texture (don't forget about alpha mask in D)
+//VMT Setting by:
+//BlueFlytrap - PBR method 
+//Galaxyi -  Almost all numbers and command
+//MrShlapa - Small adjustments and visual overhaul

@@ -1,0 +1,44 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "lucie/ait/headgear/T_PL_POL_GROM2014_AG-head_A"
+	"$bumpmap" "lucie/ait/headgear/T_PL_POL_GROM2014_AG-head_N"
+	//MaterialAdjustment
+	
+"$color2" "[0.8 0.8 0.8]"
+"$PhongDisableHalfLambert" "1"
+
+	//"$phongtint" "[///RGB_VALUE///]"	
+
+	//TRANSPARENCY AND AO:
+
+	//"$additive" "1"
+	//"$translucent" "[///VALUE///]"
+	//"$alphatest" "[///VALUE///]"
+	//"$alphatestreference" "[///VALUE///]"
+
+	//"$ambientocclusion" "0"
+
+	//"$nocull" "////VALUE///"	
+
+	//"$normalmapalphaenvmapmask" "1" 	
+	//"$envmap" "env_cubemap"					
+	//"$envmaptint" "[0.04 0.04 0.04]"				
+ 	//"$envmapFresnel"  "[1.0] "
+
+	$lightwarptexture "lucie/ait/shared/lightwarp_soft"
+	//"$phongwarptexture"		""
+	//"$phongexponent" "///NUMBER_VALUE///"	
+
+	"$rimlight" "1"
+	"$rimlightboost" "0.35"
+	//"$rimmask" "1"
+
+	//IMPORTANT:
+
+	"$phong" "1"						
+	"$phongboost"	"1" 		
+	"$phongexponenttexture" "lucie/ait/headgear/T_PL_POL_GROM2014_AG-head_MSK"  ///UV88, 0.8
+	"$phongfresnelranges"	"[0.05 0.35 1.25]"					
+	//"$PhongAlbedoTint" "1"
+
+}
