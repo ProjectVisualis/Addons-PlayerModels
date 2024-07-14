@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\nick\scp\site_director/arms"
+	"$bumpmap" "models\player\nick\scp\site_director/arms_normal"
+}

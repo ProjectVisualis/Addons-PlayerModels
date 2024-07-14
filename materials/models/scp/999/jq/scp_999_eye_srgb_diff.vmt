@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/scp/999/jq/scp_999_eye_srgb_diff"
+	"$bumpmap" "models/scp/999/jq/scp_999_eye_nrm"
+	"$alphatest" 1
+	"$surfaceprop" "flesh"
+	"$model" "1"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "522"
+	"$phongexponent" "90"
+	"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[.2 .6 1]"
+}

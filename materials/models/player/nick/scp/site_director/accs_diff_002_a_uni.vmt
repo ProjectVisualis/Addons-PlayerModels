@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\nick\scp\site_director/accs_diff_002_a_uni"
+	"$bumpmap"     "models\player\nick\scp\site_director\accs_diff_000_normal"
+}

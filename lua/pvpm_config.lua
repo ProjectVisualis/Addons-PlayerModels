@@ -251,5 +251,92 @@ config.pm_list = {
         required_files = {
             -- TODO
         }
+    },
+    {
+        addons_id = 191412471,
+        player_model = "models/player/Dr_Schwaiger.mdl",
+        name = "Superviseur Beauchamps",
+        has_custom_hands = false,
+        required_files = {
+            "models/player/dr_schwaiger.dx90.vtx",
+            "models/player/dr_schwaiger.mdl",
+            "models/player/dr_schwaiger.phy",
+            "models/player/dr_schwaiger.sw.vtx",
+            "models/player/dr_schwaiger.vvd",
+            "models/player/dr_schwaiger.dx80.vtx",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/schwaiger_head_d.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/schwaiger_head_n.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/scientist_clothes_c.vmt",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/scientist_clothes_n.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/suit_belloq_n.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/suit_grey.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/suit_schwaiger.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/suit_sheet_nml.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/arms.vmt",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/arms.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/arms_n.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/eyeball_l.vmt",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/eyeball_l_ambient.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/eyeball_r.vmt",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/eyeball_r_ambient.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/eye-iris-blue.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/eye-reflection-cubemap-.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/frames.vmt",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/genericmouth_colspec.vmt",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/genericmouth_colspec.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/genericmouth_norms.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/glass.vmt",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/glasses.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/glasses_n.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/heller_clothes_c.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/heller_clothes_exp.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/male_suit.vmt",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/male_suit_2.vmt",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/schwaiger_hair_strips_d.vmt",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/schwaiger_hair_strips_d.vtf",
+            "materials/models/lt_c/sniper_elite/dr_schwaiger/schwaiger_head_d.vmt",
+        }
+    },
+    {
+        addons_id = 2486421614,
+        player_model = "models/konnie/re8/ethanwinters.mdl",
+        name = "Alexander Walker",
+        has_custom_hands = true,
+        hands_info = {
+            model = "models/weapons/arms/v_arms_ethanwinters.mdl",
+            addons_id = 2486421614,
+            skinid = nil,
+            bodygroups = nil,
+            matchBodyskin = nil,
+        }
+    },
+    {    
+        addons_id = 2982817871,
+        player_model = "models/939/939.mdl",   
+        name = "SCP 939",
+        has_custom_hands = false,
+        required_files = {} -- ratio
+    },
+    {
+        addons_id = 2107343651,
+        player_model = "models/player/nick/scp/head_of_security/hos.mdl",
+        name = "Commandant Good",
+        has_custom_hands = false,
+        required_files = {} -- ratio
+    },
+    {
+        addons_id = 2107343651,
+        player_model = "models/player/nick/scp/site_director/sd.mdl",
+        name = "Directeur Grog",
+        has_custom_hands = false,
+        required_files = {} -- ratio
+    },
+    {
+        addons_id = 1276030302,
+        player_model = "models/scp/999/jq/scp_999_pmjq.mdl",
+        name = "SCP 999",
+        has_custom_hands = false,
+        required_files = {} -- ratio
     }
+
 }

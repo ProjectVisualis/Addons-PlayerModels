@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\lt_c\sniper_elite\dr_schwaiger/arms"
+	"$bumpmap" 	"models\lt_c\sniper_elite\dr_schwaiger/arms_n"
+	"$halflambert" "1"
+
+$phong 1
+$phongboost 0.3
+$phongexponent 9
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.3 3 30]"
+$ambientocclusion 1
+}

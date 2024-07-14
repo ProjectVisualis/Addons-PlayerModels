@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\nick\scp\head_of_security\suit_shirt7"
+	"$bumpmap" "models\player\nick\scp\head_of_security\suit_shirt_n"
+        "$nocull" "1"
+}

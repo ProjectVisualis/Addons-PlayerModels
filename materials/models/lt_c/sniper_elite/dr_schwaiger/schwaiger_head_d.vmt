@@ -1,0 +1,14 @@
+vertexlitgeneric
+{
+$baseTexture "models\lt_c\sniper_elite\dr_schwaiger\schwaiger_head_d"
+$compress "models\lt_c\sniper_elite\dr_schwaiger\schwaiger_head_compress"
+$stretch "models\lt_c\sniper_elite\dr_schwaiger\schwaiger_head_stretch"
+$bumpmap "models\lt_c\sniper_elite\dr_schwaiger/schwaiger_head_n"
+
+$phong 1
+$phongboost 2
+$phongexponent 9
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.3 3 30]"
+$ambientocclusion 1
+}

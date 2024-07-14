@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\player\nick\scp\site_director/erdim_cylmap"
+	"$bumpmap" "models\player\nick\scp\site_director/normalmap_flat"
+	"$halflambert" 1
+}

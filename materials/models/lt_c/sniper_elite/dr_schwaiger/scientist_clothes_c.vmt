@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models\lt_c\sniper_elite\dr_schwaiger\heller_clothes_c"
+	"$bumpmap" 			"models\lt_c\sniper_elite\dr_schwaiger\scientist_clothes_n"
+	"$nocull" 			"1"
+	
+	"$phong" "1"
+//	"$phongexponent" "5"
+	"$phongexponenttexture" "models\lt_c\sniper_elite\dr_schwaiger\heller_clothes_exp"
+	"$phongboost" "1.5"
+ 	"$phongfresnelranges" "[0.3 0.7 5]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" "2"
+	"$rimmask" "1"
+}

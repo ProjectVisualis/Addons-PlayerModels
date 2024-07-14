@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models\player\nick\scp\head_of_security/eyeball_r"
+	"$iris" "models\player\nick\scp\head_of_security/pupil_r"
+	"$halflambert" 1
+}

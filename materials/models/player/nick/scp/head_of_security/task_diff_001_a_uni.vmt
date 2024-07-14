@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models\player\nick\scp\head_of_security\task_diff_001_a_uni"
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$surfaceprop" "flesh"
+       	 "$nocull" 1
+}

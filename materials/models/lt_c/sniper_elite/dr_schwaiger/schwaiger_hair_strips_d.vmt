@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$basetexture "models\lt_c\sniper_elite\dr_schwaiger\schwaiger_hair_strips_d"
+	$ambientocclusion 0
+	$translucent 1
+}

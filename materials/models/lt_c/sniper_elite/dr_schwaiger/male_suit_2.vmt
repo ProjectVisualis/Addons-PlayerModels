@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\lt_c\sniper_elite\dr_schwaiger\suit_grey"
+	"$bumpmap" 	"models\lt_c\sniper_elite\dr_schwaiger/suit_sheet_nml"
+	"$halflambert" "1"
+	$phong 1
+	$phongboost 0
+}

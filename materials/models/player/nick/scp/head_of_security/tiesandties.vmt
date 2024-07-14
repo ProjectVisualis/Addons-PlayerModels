@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\nick\scp\head_of_security/tiesandties"
+	"$bumpmap" "models\player\nick\scp\head_of_security/normalmap_flat"
+}

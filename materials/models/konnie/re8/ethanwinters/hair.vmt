@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/konnie/re8/ethanwinters/hair"
+	"$bumpmap" "models/konnie/re8/ethanwinters/hair_n"
+	"$nocull" 1
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongtint "[0.6 0.6 0.6]"
+	$phongexponent 8
+	$phongboost .05
+	$alphatest 1
+	$allowalphatocoverage 1
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "models\player\nick\scp\head_of_security/gasmask"
+$bumpmap "models\player\nick\scp\head_of_security/gasmask_n"
+$nocull "1"
+}

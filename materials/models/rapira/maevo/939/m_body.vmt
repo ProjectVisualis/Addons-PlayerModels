@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/rapira/maevo/939/939_Body_D"
+	"$bumpmap" "models/rapira/maevo/939/939_Body_N"
+	"$surfaceprop" "flesh"
+	"$model" "1"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "90"
+	"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[1 1 1]"
+}
