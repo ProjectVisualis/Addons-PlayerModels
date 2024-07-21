@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ninja/mgs4/MGO_MERGE/mgo_merge_clothes_skin_Blk"
+                "$bumpmap"    "models\ninja/mgs4/MGO_MERGE/mgo_merge_clothes_skin_nm"
+	"$phong" "1"
+//	"$phongexponent" "4"
+	"$phongalbedotint" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.3 .5 15]"
+        "$lightwarptexture" 	"models\ninja/mgs4/MGO_MERGE/Clothes_wrp"
+	"$phongexponenttexture" "models\ninja/mgs4/exp"
+	$halflambert 1
+	$nocull 1
+}
+

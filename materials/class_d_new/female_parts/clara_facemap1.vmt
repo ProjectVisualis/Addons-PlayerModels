@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "class_d_new/female_parts/clara_facemap1"
+	"$nocull" "1"
+	"$halflambert" "1"
+
+}

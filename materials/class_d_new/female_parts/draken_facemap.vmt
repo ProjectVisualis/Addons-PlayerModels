@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"class_d_new/female_parts/draken_facemap"
+	"$halflambert" 		"1"
+	"$nocull" 			"1"
+
+}

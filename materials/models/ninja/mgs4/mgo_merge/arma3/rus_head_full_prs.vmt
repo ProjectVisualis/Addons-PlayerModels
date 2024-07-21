@@ -1,0 +1,12 @@
+vertexlitgeneric
+{
+$baseTexture "models\ninja/l4d2/arma\rus_head_prs"
+$bumpmap "models\ninja/l4d2/arma\rus_head_full_nml"
+        "$lightwarptexture" 	"models\ninja/l4d2/arma\Base_M_caucasian_wrp"
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[.5 3 48]"
+$blendtintbybasealpha 1
+}

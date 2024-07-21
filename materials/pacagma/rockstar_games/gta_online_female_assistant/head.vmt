@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "pacagma/rockstar_games/gta_online_female_assistant/head"
+	"$bumpmap" "pacagma/rockstar_games/gta_online_female_assistant/head_n"
+	"$nocull" 1
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "shared/light_map"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "1"
+}

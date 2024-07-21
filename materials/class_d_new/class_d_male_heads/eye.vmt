@@ -1,0 +1,7 @@
+vertexlitgeneric
+{
+$baseTexture "class_d_new\class_d_male_heads\eye"
+$nocull 1
+}
+
+

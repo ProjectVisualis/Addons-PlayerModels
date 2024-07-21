@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\medic\lowr_diff_002_a_whi"
+	"$bumpmap" "models\medic/lowe_normal"
+	"$halflambert" "1"
+
+}

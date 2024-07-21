@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scp49/clothes"
+	"$bumpmap" "models/scp49/clothes_nrm"
+	"$detail"  				"models/scp49/clothes_det"		
+	"$detailscale" 			"7.74"			
+	"$detailblendfactor"  		".8"				
+	"$detailblendmode" 		"0"
+
+	"$model" 1
+	"$nocull" 1
+
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}

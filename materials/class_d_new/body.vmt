@@ -1,0 +1,5 @@
+vertexlitgeneric
+{
+	"$basetexture" 		"class_d_new\body"
+	"$bumpmap" 		"class_d_new\body_n"
+}

@@ -1,0 +1,5 @@
+vertexlitgeneric
+{
+	"$basetexture" 		"class_d_new\prisoner_lt_bottom_d"
+	"$bumpmap" 		"class_d_new\prisoner_lt_bottom_d_n"
+}

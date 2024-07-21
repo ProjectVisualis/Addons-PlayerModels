@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ninja/l4d2/arma/"
+	"$bumpmap" "models/ninja/l4d2/arma/arms_normal"
+        "$lightwarptexture" 	"models\ninja/heads_arma\Base_M_caucasian_wrp"
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[.5 3 48]"
+
+}

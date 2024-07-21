@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ninja/l4d2/arma/m_white_01_co"
+	"$bumpmap" "models/ninja/l4d2/arma/m_white_01_N"
+	"$phong" "1"
+//	"$phongexponent" "4"
+	"$phongalbedotint" "1"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[.3 .5 15]"
+        "$lightwarptexture" 	"models\ninja/mgs4/MGO_MERGE/Clothes_wrp"
+	"$phongexponenttexture" "models\ninja/mgs4/exp"
+	$halflambert 1
+	$nocull 1
+}
+

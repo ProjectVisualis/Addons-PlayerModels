@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ninja/mgs4/MGO_MERGE/female/ilana_gots_hair_col"
+                "$bumpmap"    "models\ninja/mgs4/MGO_MERGE/female/ilana_gots_hair_nml"
+	"$phong" "1"
+//	"$phongexponent" "55"
+	"$phongalbedotint" "1"
+	"$phongboost" "5"
+	"$phongfresnelranges"	"[.3 .5 15]"
+        "$lightwarptexture" 	"models\ninja/mgs4/MGO_MERGE/Clothes_wrp"
+	"$phongexponenttexture" "models\ninja/mgs4/exp"
+	$halflambert 1
+	$nocull 1
+//	$translucent 1
+	$ambientocclusion 0
+	$alphatest 1
+	$allowalphatocoverage 1
+}
+
+

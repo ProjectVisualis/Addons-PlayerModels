@@ -1,0 +1,16 @@
+vertexlitgeneric
+{
+$baseTexture "models\ninja/l4d2/arma\rus_head_full_black"
+$bumpmap "models\ninja/l4d2/arma\rus_head_full_nml"
+$nocull 1
+
+$phong 1
+$phongboost "2"
+$phongexponent 10
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.2 .5 5]"
+$nodecal 1
+$ambientocclusion 1
+$halflambert 0
+$diffuseexp "1.5"
+}

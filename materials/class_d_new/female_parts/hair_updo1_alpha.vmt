@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 				"class_d_new/female_parts/hair_updo1"
+	"$halflambert" 				"1"
+	//"$translucent" 				"1"
+	"$alphatocoverage"			"1"
+//	"$alphatest"			"1"
+	"$nocull" 				"1"
+}

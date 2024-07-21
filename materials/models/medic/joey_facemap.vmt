@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\medic\joey_facemap"
+	"$bumpmap"     "models\medic\joey_facemap_n"
+	"$halflambert" 1
+	
+	"$phong" 1
+	"$phongboost" 0.1
+	"$phongexponent" 0.5
+	"$phongfresnelranges" "[0.2 .85 30]"
+	"$phongalbedotint" "1"
+
+	"$blendtintbybasealpha" 1
+}

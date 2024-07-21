@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models\drtowers\bmscientistcits\glassesfront_walter"
+   	"$bumpmap"     "models\drtowers\bmscientistcits\glass_n"
+	"$envmapmask"  "models\drtowers\bmscientistcits\glassesfrontmask_walter"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$halflambert" 1
+}

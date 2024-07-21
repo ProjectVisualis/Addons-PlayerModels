@@ -1,0 +1,20 @@
+vertexlitgeneric
+{
+$baseTexture "class_d_new\class_d_male_heads\face_3"
+$bumpmap "class_d_new\class_d_male_heads\face_n"
+$nocull 1
+
+$phong 1
+$phongboost "1"
+$phongexponent 10
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.2 .5 5]"
+$nodecal 1
+$ambientocclusion 1
+$halflambert 0
+$diffuseexp "1.5"
+	"$detail" "class_d_new\class_d_male_heads\skin_detail"
+	"$detailscale" 30.283
+	"$detailblendfactor" .45
+	"$detailblendmode" 0
+}

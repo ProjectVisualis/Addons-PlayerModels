@@ -1,0 +1,6 @@
+vertexlitgeneric
+{
+	$baseTexture 				"class_d_new/female_parts/sherry_facemap1"
+		"$halflambert" 1
+	
+}

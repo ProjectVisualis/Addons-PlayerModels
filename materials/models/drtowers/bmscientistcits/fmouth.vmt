@@ -1,0 +1,8 @@
+"Teeth"
+{
+	"$basetexture" "models\drtowers\bmscientistcits\mouth"
+	"$model" 1
+	"$clientshader" "MouthShader"
+	"$halflambert" 1
+//If you are snooping in the files and wondering why there are two files with the same content it's because I'm too lazy to recompile all the addon's models ( °n°)
+}

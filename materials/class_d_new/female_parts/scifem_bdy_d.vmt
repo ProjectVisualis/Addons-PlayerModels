@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "class_d_new/female_parts/SciFem_Bdy_D"
+	"$bumpmap" "class_d_new/female_parts/SciFem_Bdy_N"
+	$nocull 1
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"class_d_new/female_parts/facewrap1"
+	"$bumpmap" 			"class_d_new/female_parts/facewrap_normal"
+	"$nocull"			1
+}

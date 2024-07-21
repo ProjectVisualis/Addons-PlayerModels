@@ -337,6 +337,575 @@ config.pm_list = {
         name = "SCP 999",
         has_custom_hands = false,
         required_files = {} -- ratio
-    }
-
+    },
+    {
+        addons_id = 2549885840,
+        player_model = "models/lolozaure/scp49.mdl",
+        name = "SCP 049",
+        has_custom_hands = false,
+        required_files = {} -- ratio
+    },
+    -- ID : 676638642
+-- AddPlayerModel( "ScientistMale01", "models/bmscientistcits/p_male_01.mdl" )
+-- AddPlayerModel( "ScientistMale02", "models/bmscientistcits/p_male_02.mdl" )
+-- AddPlayerModel( "ScientistMale03", "models/bmscientistcits/p_male_03.mdl" )
+-- AddPlayerModel( "ScientistMale04", "models/bmscientistcits/p_male_04.mdl" )
+-- AddPlayerModel( "ScientistMale05", "models/bmscientistcits/p_male_05.mdl" )
+-- AddPlayerModel( "ScientistMale06", "models/bmscientistcits/p_male_06.mdl" )
+-- AddPlayerModel( "ScientistMale07", "models/bmscientistcits/p_male_07.mdl" )
+-- AddPlayerModel( "ScientistMale08", "models/bmscientistcits/p_male_08.mdl" )
+-- AddPlayerModel( "ScientistMale09", "models/bmscientistcits/p_male_09.mdl" )
+-- AddPlayerModel( "ScientistMale10", "models/bmscientistcits/p_male_10.mdl" )
+-- AddPlayerModel( "ScientistFemale01", "models/bmscientistcits/p_female_01.mdl" )
+-- AddPlayerModel( "ScientistFemale02", "models/bmscientistcits/p_female_02.mdl" )
+-- AddPlayerModel( "ScientistFemale03", "models/bmscientistcits/p_female_03.mdl" )
+-- AddPlayerModel( "ScientistFemale04", "models/bmscientistcits/p_female_04.mdl" )
+-- AddPlayerModel( "ScientistFemale06", "models/bmscientistcits/p_female_06.mdl" )
+-- AddPlayerModel( "ScientistFemale07", "models/bmscientistcits/p_female_07.mdl" )
+    {
+        addons_id = 676638642,
+        player_model = "models/bmscientistcits/p_male_01.mdl",
+        name = "Scientifique BBM 1",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 676638642,
+        player_model = "models/bmscientistcits/p_male_02.mdl",
+        name = "Scientifique BBM 2",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 676638642,
+        player_model = "models/bmscientistcits/p_male_03.mdl",
+        name = "Scientifique BBM 3",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    { addons_id = 676638642, player_model = "models/bmscientistcits/p_male_04.mdl", name = "Scientifique BBM 4", has_custom_hands = false, required_files = {} },
+    { addons_id = 676638642, player_model = "models/bmscientistcits/p_male_05.mdl", name = "Scientifique BBM 5", has_custom_hands = false, required_files = {} },
+    { addons_id = 676638642, player_model = "models/bmscientistcits/p_male_06.mdl", name = "Scientifique BBM 6", has_custom_hands = false, required_files = {} },
+    { addons_id = 676638642, player_model = "models/bmscientistcits/p_male_07.mdl", name = "Scientifique BBM 7", has_custom_hands = false, required_files = {} },
+    { addons_id = 676638642, player_model = "models/bmscientistcits/p_male_08.mdl", name = "Scientifique BBM 8", has_custom_hands = false, required_files = {} },
+    { addons_id = 676638642, player_model = "models/bmscientistcits/p_male_09.mdl", name = "Scientifique BBM 9", has_custom_hands = false, required_files = {} },
+    { addons_id = 676638642, player_model = "models/bmscientistcits/p_male_10.mdl", name = "Scientifique BBM 10", has_custom_hands = false, required_files = {} }, 
+    { addons_id = 676638642, player_model = "models/bmscientistcits/p_female_01.mdl", name = "Scientifique BBM F 1", has_custom_hands = false, required_files = {} }, 
+    { addons_id = 676638642, player_model = "models/bmscientistcits/p_female_02.mdl", name = "Scientifique BBM F 2", has_custom_hands = false, required_files = {} }, 
+    { addons_id = 676638642, player_model = "models/bmscientistcits/p_female_03.mdl", name = "Scientifique BBM F 3", has_custom_hands = false, required_files = {} }, 
+    { addons_id = 676638642, player_model = "models/bmscientistcits/p_female_04.mdl", name = "Scientifique BBM F 4", has_custom_hands = false, required_files = {} }, 
+    { addons_id = 676638642, player_model = "models/bmscientistcits/p_female_06.mdl", name = "Scientifique BBM F 5", has_custom_hands = false, required_files = {} },
+    { addons_id = 676638642, player_model = "models/bmscientistcits/p_female_07.mdl", name = "Scientifique BBF 6", has_custom_hands = false, required_files = {} }, 
+-- 1894966747
+--     player_manager.AddValidModel( "Female Assistant", "models/pacagma/rockstar_games/gta_online_female_assistant/gta_online_female_assistant_player.mdl" );
+-- player_manager.AddValidHands( "Female Assistant", "models/pacagma/rockstar_games/gta_online_female_assistant/gta_online_female_assistant_arms.mdl", 0, "00000000" )
+-- player_manager.AddValidModel( "Female Assistant Blue", "models/pacagma/rockstar_games/gta_online_female_assistant/gta_online_female_assistant_player_blu.mdl" );
+-- player_manager.AddValidHands( "Female Assistant Blue", "models/pacagma/rockstar_games/gta_online_female_assistant/gta_online_female_assistant_arms_blu.mdl", 0, "00000000" )
+    {
+        addons_id = 1894966747,
+        player_model = "models/pacagma/rockstar_games/gta_online_female_assistant/gta_online_female_assistant_player.mdl",
+        name = "Assistante",
+        has_custom_hands = true,
+        hands_info = {
+            model = "models/pacagma/rockstar_games/gta_online_female_assistant/gta_online_female_assistant_arms.mdl",
+            addons_id = 1894966747,
+            skinid = 0,
+            bodygroups = "00000000",
+        }
+    },
+    {
+        addons_id = 1894966747,
+        player_model = "models/pacagma/rockstar_games/gta_online_female_assistant/gta_online_female_assistant_player_blu.mdl",
+        name = "Assistante Bleue",
+        has_custom_hands = true,
+        hands_info = {
+            model = "models/pacagma/rockstar_games/gta_online_female_assistant/gta_online_female_assistant_arms_blu.mdl",
+            addons_id = 1894966747,
+            skinid = 0,
+            bodygroups = "00000000",
+        }
+        },
+    {
+        addons_id = 2670421172,
+        player_model = "models/player/kerry/medic/medic_01.mdl",
+        name = "Medic 01",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2670421172,
+        player_model = "models/player/kerry/medic/medic_02.mdl",
+        name = "Medic 02",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2670421172,
+        player_model = "models/player/kerry/medic/medic_03.mdl",
+        name = "Medic 03",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2670421172,
+        player_model = "models/player/kerry/medic/medic_04.mdl",
+        name = "Medic 04",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2670421172,
+        player_model = "models/player/kerry/medic/medic_05.mdl",
+        name = "Medic 05",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2670421172,
+        player_model = "models/player/kerry/medic/medic_06.mdl",
+        name = "Medic 06",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2670421172,
+        player_model = "models/player/kerry/medic/medic_07.mdl",
+        name = "Medic 07",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2670421172,
+        player_model = "models/player/kerry/medic/medic_01_f.mdl",
+        name = "Medic 01 Female",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2670421172,
+        player_model = "models/player/kerry/medic/medic_02_f.mdl",
+        name = "Medic 02 Female",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2670421172,
+        player_model = "models/player/kerry/medic/medic_03_f.mdl",
+        name = "Medic 03 Female",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2670421172,
+        player_model = "models/player/kerry/medic/medic_04_f.mdl",
+        name = "Medic 04 Female",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2670421172,
+        player_model = "models/player/kerry/medic/medic_05_f.mdl",
+        name = "Medic 05 Female",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2670421172,
+        player_model = "models/player/kerry/medic/medic_06_f.mdl",
+        name = "Medic 06 Female",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_new_1.mdl",
+        name = "Class D New 1",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_new_2.mdl",
+        name = "Class D New 2",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_new_3.mdl",
+        name = "Class D New 3",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_new_4.mdl",
+        name = "Class D New 4",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_new_5.mdl",
+        name = "Class D New 5",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_new_6.mdl",
+        name = "Class D New 6",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_new_7.mdl",
+        name = "Class D New 7",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_new_8.mdl",
+        name = "Class D New 8",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_new_9.mdl",
+        name = "Class D New 9",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_new_10.mdl",
+        name = "Class D New 10",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_new_11.mdl",
+        name = "Class D New 11",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_new_12.mdl",
+        name = "Class D New 12",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_new_13.mdl",
+        name = "Class D New 13",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_bor_new.mdl",
+        name = "Class D BOR New",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_fat_new.mdl",
+        name = "Class D Fat New",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/class_d_hacker_new.mdl",
+        name = "Class D Hacker New",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/female/d_female_01.mdl",
+        name = "Class D Female 01",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/female/d_female_02.mdl",
+        name = "Class D Female 02",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/female/d_female_03.mdl",
+        name = "Class D Female 03",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/female/d_female_04.mdl",
+        name = "Class D Female 04",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/female/d_female_05.mdl",
+        name = "Class D Female 05",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/female/d_female_06.mdl",
+        name = "Class D Female 06",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/female/d_female_07.mdl",
+        name = "Class D Female 07",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/female/d_female_08.mdl",
+        name = "Class D Female 08",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/female/d_female_09.mdl",
+        name = "Class D Female 09",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2401820507,
+        player_model = "models/scp_class_d/female/d_female_10.mdl",
+        name = "Class D Female 10",
+        has_custom_hands = false,
+        required_files = {}
+    },
+{
+    addons_id = 2239015943,
+    player_model = "models/ninja/female/femalepmc1a.mdl",
+    name = "Female PMC 1a",
+    has_custom_hands = false,
+    required_files = {}
+},
+{
+    addons_id = 2239015943,
+    player_model = "models/ninja/female/femalepmc1b.mdl",
+    name = "Female PMC 1b",
+    has_custom_hands = false,
+    required_files = {}
+},
+{
+    addons_id = 2239015943,
+    player_model = "models/ninja/female/femalepmc1c.mdl",
+    name = "Female PMC 1c",
+    has_custom_hands = false,
+    required_files = {}
+},
+{
+    addons_id = 2239015943,
+    player_model = "models/ninja/female/femalepmc1d.mdl",
+    name = "Female PMC 1d",
+    has_custom_hands = false,
+    required_files = {}
+},
+{
+    addons_id = 2239015943,
+    player_model = "models/ninja/female/femalepmc1e.mdl",
+    name = "Female PMC 1e",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc1f.mdl",
+        name = "Female PMC 1f",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc2a.mdl",
+        name = "Female PMC 2a",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc2b.mdl",
+        name = "Female PMC 2b",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc2c.mdl",
+        name = "Female PMC 2c",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc2d.mdl",
+        name = "Female PMC 2d",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc2e.mdl",
+        name = "Female PMC 2e",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc2f.mdl",
+        name = "Female PMC 2f",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc3a.mdl",
+        name = "Female PMC 3a",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc3b.mdl",
+        name = "Female PMC 3b",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc3c.mdl",
+        name = "Female PMC 3c",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc3d.mdl",
+        name = "Female PMC 3d",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc3e.mdl",
+        name = "Female PMC 3e",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc3f.mdl",
+        name = "Female PMC 3f",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc4a.mdl",
+        name = "Female PMC 4a",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc4b.mdl",
+        name = "Female PMC 4b",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc4c.mdl",
+        name = "Female PMC 4c",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc4d.mdl",
+        name = "Female PMC 4d",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc4e.mdl",
+        name = "Female PMC 4e",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc4f.mdl",
+        name = "Female PMC 4f",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc5a.mdl",
+        name = "Female PMC 5a",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc5b.mdl",
+        name = "Female PMC 5b",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc5c.mdl",
+        name = "Female PMC 5c",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc5d.mdl",
+        name = "Female PMC 5d",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc5e.mdl",
+        name = "Female PMC 5e",
+        has_custom_hands = false,
+        required_files = {}
+    },
+    {
+        addons_id = 2239015943,
+        player_model = "models/ninja/female/femalepmc5f.mdl",
+        name = "Female PMC 5f",
+        has_custom_hands = false,
+        required_files = {}
+    },
 }

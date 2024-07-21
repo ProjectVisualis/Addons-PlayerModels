@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	$baseTexture 				"class_d_new/female_parts/hair_firefly1"
+	"$translucent" 		"1"
+//	"$nocull" 			"1"
+	"$halflambert" 		"1"
+}
+
+
+
+

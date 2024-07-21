@@ -1,0 +1,7 @@
+vertexlitgeneric
+{
+$baseTexture "class_d_new\class_d_male_heads\c_gen_insidemouth_c"
+$bumpmap "class_d_new\class_d_male_heads\c_gen_insidemouth_n"
+
+
+}

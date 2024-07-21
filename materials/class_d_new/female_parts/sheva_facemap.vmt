@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	$baseTexture 				"class_d_new/female_parts/sheva_facemap"
+    "$bumpmap"     				"class_d_new/female_parts/sheeva_facemap_normal"
+
+}
+
+
+
